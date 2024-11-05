@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pragash</h1>
+<h1 align="center">Hey, I'm Pragash 😎</h1>
 <h3 align="center">DevOps Enthusiast | Optimizing Pipelines, Automating Infrastructure</h3>
 
-- 🌱 I’m currently learning **Kubernetes & Terraform**
+- 🌱 I’m currently learning: **Kubernetes & Terraform**
 
-- 📫 How to reach me **pragash1001@gmail.com**
+- 📫 How to reach me: **pragash1001@gmail.com**
 
-- ⚡ Fun fact **Sleep through anything!**
+- ⚡ Fun fact: **Sleep through anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
