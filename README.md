@@ -27,6 +27,6 @@
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
     </a> </p>
 <br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ppt1001&theme=dark" alt="ppt1001" />
-</p>
+</p> -->
